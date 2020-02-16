@@ -14,6 +14,6 @@ Please see the license agreement <https://github.com/bcit-ci/CodeIgniter/blob/de
 
 ## AdminLTE v.3.0.2
 
-Author: Colorlib
-Website: AdminLTE.io <http://adminlte.io>
+Author: Colorlib<br/>
+Website: AdminLTE.io <http://adminlte.io><br/>
 License: Open source - MIT <http://opensource.org/licenses/MIT>
